@@ -6,3 +6,4 @@ Notes and usage details for frontend-promotion-guard.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- clarify the setup steps
