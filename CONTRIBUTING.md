@@ -16,3 +16,4 @@ Notes and usage details for frontend-promotion-guard.
 - fix a small wording issue
 - link the usage section
 - clarify the setup steps
+- clarify the setup steps
